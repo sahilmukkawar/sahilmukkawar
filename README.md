@@ -16,17 +16,16 @@
 <br/>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🔭 I’m currently working on **Real-Time College Communication App (Flutter + Golang)**
-- 🧠 Learning **DSA, System Design & ML/DL Models**
-- 🧑‍💻 Actively contributing to **Open Source Projects**
+- 🔭 I’m currently working on **Real-Time College Communication Website (React +Golang)**
+- 🧠 Learning **DSA & ML/DL Models**
 - 📫 Reach me at: **sahilmukkawar05@gmail.com**
-- 💼 Check out my [Portfolio Website](https://sahilmukkawar.github.io)
+- 💼 Check out my [Portfolio Website](https://sahil-mukkawar.netlify.app/)
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahil-mukkawar/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-mukkawar-1a3401239/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="mailto:sahilmukkawar05@gmail.com">
@@ -51,28 +50,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+
 </p>
-
----
-
-<h2 align="center">🎉 Achievements & Contributions</h2>
-
-<h3 align="center">🏅 Hacktoberfest 2024</h3>
-<p align="center"><img src="https://holopin.me/sahilmukkawar" alt="Hacktoberfest Badges" /></p>
-
-<h3 align="center">🌟 GSSOC'24 Badges</h3>
-<div align="center" style="display:flex; gap:10px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100" />
-</div>
-
----
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
@@ -86,4 +66,4 @@
 ---
 
 <h2 align="center">💡 Quote of the Day</h2>
-<p align="center"><i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i></p>
+<p align="center"><i>"Alaways be the best version of yourself."</i></p>
