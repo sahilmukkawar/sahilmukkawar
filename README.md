@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on **Real-Time College Communication Website (React +Golang)**
 - 🧠 Learning **DSA & ML/DL Models**
-- 📫 Reach me at: **sahilmukkawar05@gmail.com**
+- 📫 Reach me at: **mukkawarsahil99@gmail.com**
 - 💼 Check out my [Portfolio Website](https://sahil-mukkawar.netlify.app/)
 
 ---
@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/sahil-mukkawar-1a3401239/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:sahilmukkawar05@gmail.com">
+  <a href="mailto:mukkawarsahil99@gmail.com">
     <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail" height="30" width="40" />
   </a>
 </p>
