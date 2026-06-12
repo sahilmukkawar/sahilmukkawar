@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🙏🙏;+I'm+Sahil+Mukkawar!" />
 </h1>
 
-<h3 align="center">🚀 Passionate Full-Stack Developer | AI-ML Enthusiast | Final Year B.Tech Student</h3>
+<h3 align="center">🚀 Passionate Software Engineer | AI-ML & Security Enthusiast | Final Year B.Tech Student</h3>
 
 <p align="center">
   <a href="https://github.com/sahilmukkawar">
